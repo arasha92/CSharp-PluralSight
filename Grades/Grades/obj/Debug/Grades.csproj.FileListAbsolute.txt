@@ -1,0 +1,9 @@
+C:\Users\fztwd6\Documents\Visual Studio 2015\Projects\Pluralsight\C# Fundamentals\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\fztwd6\Documents\Visual Studio 2015\Projects\Pluralsight\C# Fundamentals\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\fztwd6\Documents\Visual Studio 2015\Projects\Pluralsight\C# Fundamentals\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\fztwd6\Documents\Visual Studio 2015\Projects\Pluralsight\C# Fundamentals\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\fztwd6\Documents\Visual Studio 2015\Projects\Pluralsight\C# Fundamentals\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\fztwd6\Documents\Visual Studio 2015\Projects\Pluralsight\C# Fundamentals\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\laker\OneDrive\Documents\GitHub\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\laker\OneDrive\Documents\GitHub\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\laker\OneDrive\Documents\GitHub\Grades\Grades\obj\Debug\Grades.pdb
