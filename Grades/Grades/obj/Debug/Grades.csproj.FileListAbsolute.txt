@@ -7,3 +7,9 @@ C:\Users\fztwd6\Documents\Visual Studio 2015\Projects\Pluralsight\C# Fundamental
 C:\Users\laker\OneDrive\Documents\GitHub\Grades\Grades\bin\Debug\Grades.exe.config
 C:\Users\laker\OneDrive\Documents\GitHub\Grades\Grades\obj\Debug\Grades.exe
 C:\Users\laker\OneDrive\Documents\GitHub\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\laker\Documents\GitHub\CSharp-PluralSight\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\laker\Documents\GitHub\CSharp-PluralSight\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\laker\Documents\GitHub\CSharp-PluralSight\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\laker\Documents\GitHub\CSharp-PluralSight\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\laker\Documents\GitHub\CSharp-PluralSight\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\laker\Documents\GitHub\CSharp-PluralSight\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
