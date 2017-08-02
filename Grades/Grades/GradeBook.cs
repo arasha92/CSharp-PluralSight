@@ -31,6 +31,8 @@ namespace Grades
             return stats;
         }
 
+        public string Name;
+
         private List<float> grades;
     }
 }

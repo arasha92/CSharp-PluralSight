@@ -13,3 +13,9 @@ C:\Users\laker\Documents\GitHub\CSharp-PluralSight\Grades\Grades\obj\Debug\Grade
 C:\Users\laker\Documents\GitHub\CSharp-PluralSight\Grades\Grades\bin\Debug\Grades.exe
 C:\Users\laker\Documents\GitHub\CSharp-PluralSight\Grades\Grades\bin\Debug\Grades.pdb
 C:\Users\laker\Documents\GitHub\CSharp-PluralSight\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\fztwd6\Documents\CSharp-PluralSight-master\CSharp-PluralSight-master\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\fztwd6\Documents\CSharp-PluralSight-master\CSharp-PluralSight-master\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\fztwd6\Documents\CSharp-PluralSight-master\CSharp-PluralSight-master\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\fztwd6\Documents\CSharp-PluralSight-master\CSharp-PluralSight-master\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\fztwd6\Documents\CSharp-PluralSight-master\CSharp-PluralSight-master\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\fztwd6\Documents\CSharp-PluralSight-master\CSharp-PluralSight-master\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache

@@ -6,3 +6,11 @@ C:\Users\laker\Documents\GitHub\CSharp-PluralSight\Grades\Grades.Tests\obj\Debug
 C:\Users\laker\Documents\GitHub\CSharp-PluralSight\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
 C:\Users\laker\Documents\GitHub\CSharp-PluralSight\Grades\Grades.Tests\bin\Debug\Grades.exe
 C:\Users\laker\Documents\GitHub\CSharp-PluralSight\Grades\Grades.Tests\bin\Debug\Grades.pdb
+C:\Users\fztwd6\Documents\CSharp-PluralSight-master\CSharp-PluralSight-master\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\fztwd6\Documents\CSharp-PluralSight-master\CSharp-PluralSight-master\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\fztwd6\Documents\CSharp-PluralSight-master\CSharp-PluralSight-master\Grades\Grades.Tests\bin\Debug\Grades.exe
+C:\Users\fztwd6\Documents\CSharp-PluralSight-master\CSharp-PluralSight-master\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\fztwd6\Documents\CSharp-PluralSight-master\CSharp-PluralSight-master\Grades\Grades.Tests\bin\Debug\Grades.pdb
+C:\Users\fztwd6\Documents\CSharp-PluralSight-master\CSharp-PluralSight-master\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Users\fztwd6\Documents\CSharp-PluralSight-master\CSharp-PluralSight-master\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\fztwd6\Documents\CSharp-PluralSight-master\CSharp-PluralSight-master\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
